@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# Dependency directories
+pids
+logs
+results
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# User-specific files
+*.sublime-project
+*.sublime-workspace
+*.komodoproject
+.komodotools/
+
+# Local configuration files
+*.iml
+*.ipr
+*.iws
+
+# WebStorm files
+.idea/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
